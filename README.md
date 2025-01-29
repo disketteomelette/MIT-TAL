@@ -1,5 +1,9 @@
 # MIT-TAL
-A version of the MIT license that allows reuse of the product as long as you notify the original author and include the license itself
+A version of the MIT license that allows reuse of the product as long as you notify the original author and include the license itself, created by myself.
+
+I have always been a strong advocate of the Creative Commons Attribution / MIT / Apache licenses, but unfortunately, I have witnessed countless instances where software is reused and adapted without giving proper credit to the original author. 
+
+For this reason, I have used the MIT license (probably one of the most permissive out there) but with the condition of author recognition and notification (purely informative, not requiring consent). If this requirement is not met, the original author may claim damages from the person who created the derivative work for violating the license.
 
 # English
 
