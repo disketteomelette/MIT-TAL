@@ -22,10 +22,10 @@ If you fail to meet these conditions:
 
     You would be violating the license, which could be considered copyright infringement.
     The author may claim damages under the strictest applicable copyright laws. This may include:
-        Statutory damages (fixed amounts established by law in some jurisdictions).
-        Economic losses resulting from unauthorized use.
-        Moral damages (if the violation harms the author’s reputation).
-        Any other damages under the most protective legal frameworks.
+        - Statutory damages (fixed amounts established by law in some jurisdictions).
+        - Economic losses resulting from unauthorized use.
+        - Moral damages (if the violation harms the author’s reputation).
+        - Any other damages under the most protective legal frameworks.
 
 In summary, you have broad rights to use, modify, and distribute the software, but you must notify the author, give proper credit, and include the license. Otherwise, you could face legal claims and severe copyright penalties.
 
@@ -50,9 +50,9 @@ Si no cumples con estas condiciones:
 
     Estarías violando la licencia, lo que podría considerarse una infracción de derechos de autor.
     El autor podría reclamar daños y perjuicios según las leyes de copyright más estrictas aplicables. Esto puede incluir:
-        Daños estatutarios (cantidades fijas establecidas por la ley en algunos países).
-        Pérdidas económicas derivadas del uso no autorizado.
-        Daños morales (si el incumplimiento afecta la reputación del autor).
-        Otros daños previstos en los marcos legales más protectores.
+        - Daños estatutarios (cantidades fijas establecidas por la ley en algunos países).
+        - Pérdidas económicas derivadas del uso no autorizado.
+        - Daños morales (si el incumplimiento afecta la reputación del autor).
+        - Otros daños previstos en los marcos legales más protectores.
 
 En resumen, puedes hacer casi todo con el software, pero siempre notificando al autor, acreditando su autoría e incluyendo la licencia. De lo contrario, podrías enfrentarte a demandas por infracción de copyright con sanciones potencialmente severas.
